@@ -1,0 +1,633 @@
+AcquisitionYear,Business,ParentCompany,Category
+2015,Cloud software,Google,Internet_Search
+2015,Video editing,Google,Internet_Search
+2015,Cloud-based video management,IBM,Computing_platform
+2015,Big Data Analytics,Microsoft,Computing_platform
+2015,Mobile communications,Microsoft,Computing_platform
+2016,Emotion recognition,Apple,Computing_platform
+1987,Computer software,Microsoft,Computing_platform
+1988,Software,Apple,Computing_platform
+1988,Satellite communication systems,Apple,Computing_platform
+1988,Computer software,Apple,Computing_platform
+1988,Computer software,Apple,Computing_platform
+1989,Computer software,Apple,Computing_platform
+2016,Streaming video,IBM,Computing_platform
+1992,PC database software,Microsoft,Computing_platform
+1994,Software,Microsoft,Computing_platform
+1994,Software,Microsoft,Computing_platform
+1994,Software,Microsoft,Computing_platform
+1995,3D graphics hardware,Microsoft,Computing_platform
+1995,Software,Microsoft,Computing_platform
+1995,Computer software,Microsoft,Computing_platform
+2016,Education technology,Apple,Computing_platform
+2017,Anonymous social media app,Facebook,SNS
+1995,Programming,Microsoft,Computing_platform
+1996,Software,Microsoft,Computing_platform
+1996,Software,Microsoft,Computing_platform
+1996,Video game controllers,Microsoft,Computing_platform
+1996,Computer software,Microsoft,Computing_platform
+1996,Software,Microsoft,Computing_platform
+1996,Electronic games,Microsoft,Computing_platform
+1997,Internet software,Microsoft,Computing_platform
+2016,Digital marketing and creative agency,IBM,Computing_platform
+1997,Unix-like hardware and software platform,Apple,Computing_platform
+1997,Internet software,Microsoft,Computing_platform
+1997,Internet service provider,Microsoft,Computing_platform
+1997,Java-based platforms,Microsoft,Computing_platform
+1997,Programming,Microsoft,Computing_platform
+1997,Internet video software,Microsoft,Computing_platform
+1997,Web search engine,Yahoo,Internet_Search
+1997,Macintosh clones,Apple,Computing_platform
+1997,Web-based email,Yahoo,Internet_Search
+2016,Augmented reality,Apple,Computing_platform
+1997,Internet software,Microsoft,Computing_platform
+1998,Enterprise instant messaging software,Microsoft,Computing_platform
+1998,Online game,Yahoo,Internet_Search
+1998,Relationship management software,Microsoft,Computing_platform
+1998,Data sharing software,Microsoft,Computing_platform
+1998,Fantasy sport,Yahoo,Internet_Search
+1998,Web application,Yahoo,Internet_Search
+1998,Calendaring software,Yahoo,Internet_Search
+1998,Internet software,Microsoft,Computing_platform
+1998,Direct marketing,Yahoo,Internet_Search
+1998,Internet advertising network,Microsoft,Computing_platform
+1998,Data analysis,Yahoo,Internet_Search
+1999,Computer game software,Microsoft,Computing_platform
+1999,Shopping online,Microsoft,Computing_platform
+1999,Software,Microsoft,Computing_platform
+1999,Internet radio,Yahoo,Internet_Search
+1999,Web music software,Microsoft,Computing_platform
+1999,Internet service provider,Microsoft,Computing_platform
+1999,Internet service provider,Yahoo,Internet_Search
+1999,Web hosting service,Yahoo,Internet_Search
+1999,Content delivery network,Yahoo,Internet_Search
+1999,Wholesale computer software,Microsoft,Computing_platform
+1999,Internet software,Microsoft,Computing_platform
+1999,Defect detection software,Microsoft,Computing_platform
+1999,Computer programming,Microsoft,Computing_platform
+1999,Software,Microsoft,Computing_platform
+2016,Platform security,Apple,Computing_platform
+1999,Computer graphic chips,Apple,Computing_platform
+2000,Wholesale drawing software,Microsoft,Computing_platform
+2000,Internet software,Apple,Computing_platform
+2000,Internet service provider,Microsoft,Computing_platform
+2000,E-commerce payment systems,Yahoo,Internet_Search
+2000,Internet service provider,Yahoo,Internet_Search
+2000,Cable television,Microsoft,Computing_platform
+2000,Computer software,Microsoft,Computing_platform
+2000,E-commerce,Yahoo,Internet_Search
+2000,Software,Microsoft,Computing_platform
+2000,Electronic mailing list,Yahoo,Internet_Search
+2000,Online music search engine,Microsoft,Computing_platform
+2000,Digital audio technology,Microsoft,Computing_platform
+2000,Software,Apple,Computing_platform
+2001,Productivity software,Apple,Computing_platform
+2001,Usenet,Google,Internet_Search
+2001,Internet service provider,Microsoft,Computing_platform
+2001,Business management software,Microsoft,Computing_platform
+2001,Internet service provider (ISP),Apple,Computing_platform
+2001,Business strategy consulting,IBM,Computing_platform
+2001,Online music store,Yahoo,Internet_Search
+2001,Online Spanish Portal,Microsoft,Computing_platform
+2001,Database Software,IBM,Computing_platform
+2016,Platform for musicians,Google,Internet_Search
+2001,Graphics software,Apple,Computing_platform
+2001,Web search engine,Google,Internet_Search
+2001,Online info systems services,Apple,Computing_platform
+2002,Software,IBM,Computing_platform
+2002,Special effects software,Apple,Computing_platform
+2002,Job search engine,Yahoo,Internet_Search
+2002,Travel agency,Microsoft,Computing_platform
+2002,FireWire chips and software,Apple,Computing_platform
+2002,Software,Microsoft,Computing_platform
+2002,Digital effects software,Apple,Computing_platform
+2002,internet and network optimization for wireless carriers,Apple,Computing_platform
+2002,Special-effects titling software for film and video,Apple,Computing_platform
+2002,Computer consulting,Microsoft,Computing_platform
+2002,Enterprise storage,IBM,Computing_platform
+2002,Security software,Microsoft,Computing_platform
+2002,Business Process Management,IBM,Computing_platform
+2016,"Provider of cloud-based healthcare data, analytics and insights",IBM,Computing_platform
+2017,Cinemagraphic photo app,Microsoft,Computing_platform
+2002,Business Consulting and Technology Services,IBM,Computing_platform
+2002,Software,IBM,Computing_platform
+2002,Product lifecycle management,IBM,Computing_platform
+2002,Online enterprise location,Microsoft,Computing_platform
+2002,Internet service provider,Yahoo,Internet_Search
+2003,Weblog software,Google,Internet_Search
+2003,Software Development,IBM,Computing_platform
+2003,Software,Microsoft,Computing_platform
+2016,Mobile application development,Microsoft,Computing_platform
+2003,Online advertising,Google,Internet_Search
+2003,Customer relationship management,Google,Internet_Search
+2003,Web conferencing,Microsoft,Computing_platform
+2003,Information technology,Microsoft,Computing_platform
+2003,Search engine marketing,Yahoo,Internet_Search
+2003,Software,IBM,Computing_platform
+2003,Software,Microsoft,Computing_platform
+2016,"Cyber security, incident response platform",IBM,Computing_platform
+2003,Web search engine,Google,Internet_Search
+2003,Blogging,Google,Internet_Search
+2003,Online advertising,Google,Internet_Search
+2003,Enterprise Information Integration,IBM,Computing_platform
+2003,Automated Self-Checkout Systems,IBM,Computing_platform
+2003,Content management software,IBM,Computing_platform
+2004,Product information management,IBM,Computing_platform
+2004,IP assets,Microsoft,Computing_platform
+2004,Reporting systems,Microsoft,Computing_platform
+2004,HTML editor,Google,Internet_Search
+2004,Infrastructure management,IBM,Computing_platform
+2004,Web-based email,Yahoo,Internet_Search
+2004,Image organizer,Google,Internet_Search
+2004,Business Intelligence,IBM,Computing_platform
+2004,Personal search tool,Microsoft,Computing_platform
+2004,Application management software,IBM,Computing_platform
+2004,Traffic analysis,Google,Internet_Search
+2004,Audio player,Yahoo,Internet_Search
+2004,Enterprise Information Integration,IBM,Computing_platform
+2004,Web-based email,Yahoo,Internet_Search
+2004,Map analysis,Google,Internet_Search
+2004,Business process services,IBM,Computing_platform
+2016,Salesforce systems integrator and professional services,IBM,Computing_platform
+2004,Mobile media,Yahoo,Internet_Search
+2004,Anti-spyware,Microsoft,Computing_platform
+2005,Identity management,IBM,Computing_platform
+2005,Wireless data sharing,Yahoo,Internet_Search
+2005,Software,Microsoft,Computing_platform
+2005,Online game,Yahoo,Internet_Search
+2005,Application Services,IBM,Computing_platform
+2016,Employee and Manager Feedback Tool,Twitter,SNS
+2005,Web analytics,Google,Internet_Search
+2005,Gesture recognition company,Apple,Computing_platform
+2005,Community software,Microsoft,Computing_platform
+2005,Enterprise Information Integration,IBM,Computing_platform
+2005,Application Server,IBM,Computing_platform
+2005,Messaging,Microsoft,Computing_platform
+2005,Social networking service,Google,Internet_Search
+2005,Weblog software,Yahoo,Internet_Search
+2005,Voice over Internet Protocol,Yahoo,Internet_Search
+2005,Software,Microsoft,Computing_platform
+2005,Application Management,IBM,Computing_platform
+2005,Widget engine,Yahoo,Internet_Search
+2005,Asset Management,IBM,Computing_platform
+2005,Enterprise Information Integration,IBM,Computing_platform
+2005,Mobile operating system,Google,Internet_Search
+2005,AboutFace,Facebook,SNS
+2005,VoIP,Microsoft,Computing_platform
+2005,Email protection,Microsoft,Computing_platform
+2005,Certificate management software,Microsoft,Computing_platform
+2005,Calendaring software,Yahoo,Internet_Search
+2005,Service Oriented Architecture (SOA),IBM,Computing_platform
+2005,Graphics library,Google,Internet_Search
+2005,Information management software,IBM,Computing_platform
+2005,Network management,IBM,Computing_platform
+2005,Social bookmarking,Yahoo,Internet_Search
+2005,Portal-based tools,IBM,Computing_platform
+2005,Widget engine,Google,Internet_Search
+2006,Online music store,Yahoo,Internet_Search
+2006,Advertising,Google,Internet_Search
+2006,Web search engine,Yahoo,Internet_Search
+2006,Software,Microsoft,Computing_platform
+2006,IT Financial Management,IBM,Computing_platform
+2006,Semiconductor Manufacturing software,IBM,Computing_platform
+2006,Supply chain optimization,IBM,Computing_platform
+2006,Software,Microsoft,Computing_platform
+2006,Weblog software,Google,Internet_Search
+2006,Network management,IBM,Computing_platform
+2006,Internet software,Microsoft,Computing_platform
+2006,Software,Microsoft,Computing_platform
+2006,Word processor,Google,Internet_Search
+2006,3D modeling software,Google,Internet_Search
+2006,Identity management,IBM,Computing_platform
+2006,Digital video recorder,Yahoo,Internet_Search
+2006,Software Development,IBM,Computing_platform
+2006,Mapping software,Microsoft,Computing_platform
+2016,Internet service provider,Google,Internet_Search
+2006,Video game advertising,Microsoft,Computing_platform
+2006,Metadata management,IBM,Computing_platform
+2006,Web log analysis,Microsoft,Computing_platform
+2006,Online spreadsheets,Google,Internet_Search
+2006,Analysis software,Microsoft,Computing_platform
+2006,application virtualization software,Microsoft,Computing_platform
+2006,Software,Microsoft,Computing_platform
+2006,Service Oriented Architecture software,IBM,Computing_platform
+2006,Online video editing,Yahoo,Internet_Search
+2006,Applications,Microsoft,Computing_platform
+2006,Asset Management,IBM,Computing_platform
+2006,Video sharing,Google,Internet_Search
+2006,Natural language software,Microsoft,Computing_platform
+2016,Cloud-based video services,Google,Internet_Search
+2006,Content management software,IBM,Computing_platform
+2006,Software,Apple,Computing_platform
+2006,Online advertising,Yahoo,Internet_Search
+2006,Management consulting,IBM,Computing_platform
+2006,Information security,IBM,Computing_platform
+2006,Web application,Google,Internet_Search
+2006,Social media,Yahoo,Internet_Search
+2016,Link management,Google,Internet_Search
+2007,Social network service,Yahoo,Internet_Search
+2007,Telecommunications Management,IBM,Computing_platform
+2007,In-game advertising,Google,Internet_Search
+2007,Data Mobility,IBM,Computing_platform
+2007,Internet search engine,Microsoft,Computing_platform
+2007,Enterprise Data Consulting,IBM,Computing_platform
+2007,Software tools,Microsoft,Computing_platform
+2016,Mobile tool maker,Google,Internet_Search
+2007,Online advertising,Google,Internet_Search
+2007,Presentation program,Google,Internet_Search
+2007,Online advertising,Yahoo,Internet_Search
+2007,Mobile phone software,Microsoft,Computing_platform
+2007,Business Intelligence software,Microsoft,Computing_platform
+2007,Computer security,Google,Internet_Search
+2007,Social networking service,Google,Internet_Search
+2016,Machine learning,Apple,Computing_platform
+2007,Web feed,Google,Internet_Search
+2007,Information technology,Microsoft,Computing_platform
+2007,Parallel processing,Google,Internet_Search
+2007,Master Data Management,Microsoft,Computing_platform
+2007,Presentation program,Google,Internet_Search
+2007,College sports,Yahoo,Internet_Search
+2007,Networking,Microsoft,Computing_platform
+2007,Voice over IP,Google,Internet_Search
+2007,Communications security,Google,Internet_Search
+2016,Video game streaming,Microsoft,Computing_platform
+2007,Offline applications/Web desktop,Facebook,SNS
+2007,Aerial photography,Google,Internet_Search
+2007,Security Software Testing,IBM,Computing_platform
+2007,Digital marketing,Microsoft,Computing_platform
+2007,Ad Exchange,Microsoft,Computing_platform
+2007,Web conferencing and communications,IBM,Computing_platform
+2007,Advertising network,Yahoo,Internet_Search
+2007,Business Intelligence,IBM,Computing_platform
+2016,Cloud software,Google,Internet_Search
+2007,News site,Yahoo,Internet_Search
+2007,Collaborative software,Yahoo,Internet_Search
+2007,Social networking service,Google,Internet_Search
+2007,Search engine,Microsoft,Computing_platform
+2007,Enterprise messaging software,Microsoft,Computing_platform
+2007,Storage Consulting and Technology Services,IBM,Computing_platform
+2016,AI-powered scheduling assistant service,Microsoft,Computing_platform
+2008,Business Intelligence,IBM,Computing_platform
+2008,Software,Microsoft,Computing_platform
+2008,Database Software,IBM,Computing_platform
+2008,Data backup services,IBM,Computing_platform
+2008,Browser extension,Yahoo,Internet_Search
+2008,Software,Microsoft,Computing_platform
+2008,Video on demand,Yahoo,Internet_Search
+2016,Personal health info collection company,Apple,Computing_platform
+2008,Enterprise Single Sign-On,IBM,Computing_platform
+2008,Advertising yield management software,Microsoft,Computing_platform
+2008,Rootkit security software,Microsoft,Computing_platform
+2008,Online search software,Microsoft,Computing_platform
+2008,Mobile Internet software,Microsoft,Computing_platform
+2008,Data De-duplication,IBM,Computing_platform
+2016,API management and predictive analytics,Google,Internet_Search
+2008,Application Recovery Software,IBM,Computing_platform
+2008,Semiconductors,Apple,Computing_platform
+2008,Data Feed Connectors,IBM,Computing_platform
+2008,Browser extension,Yahoo,Internet_Search
+2008,Software,Microsoft,Computing_platform
+2008,Management software,Microsoft,Computing_platform
+2008,Social networking,Facebook,SNS
+2016,Location-based analytics,Google,Internet_Search
+2008,"Mainframe, System Z technologies",IBM,Computing_platform
+2008,Online video,Google,Internet_Search
+2008,Semantic Search,Microsoft,Computing_platform
+2008,Data software,Microsoft,Computing_platform
+2008,Search and e-commerce services,Microsoft,Computing_platform
+2008,Virtualization Software,IBM,Computing_platform
+2016,Natural language processing,Google,Internet_Search
+2009,Data Discovery Software,IBM,Computing_platform
+2009,Bioinformatics solutions for life science research,Microsoft,Computing_platform
+2009,Maps,Apple,Computing_platform
+2009,Webmail applications,Yahoo,Internet_Search
+2009,Source code analysis,IBM,Computing_platform
+2009,Statistical analysis software,IBM,Computing_platform
+2009,Video compression,Google,Internet_Search
+2016,Modular Electronics,Facebook,SNS
+2009,Social networking aggregator,Facebook,SNS
+2009,Security,Google,Internet_Search
+2009,Software,Microsoft,Computing_platform
+2009,Voice over IP,Google,Internet_Search
+2009,Mobile advertising,Google,Internet_Search
+2009,Online advertising,Google,Internet_Search
+2009,Database monitoring and protection,IBM,Computing_platform
+2009,Collaborative real-time editor,Google,Internet_Search
+2009,Music streaming,Apple,Computing_platform
+2009,Identity and Access Management Software for Healthcare,Microsoft,Computing_platform
+2009,Business Process Management,IBM,Computing_platform
+2010,Mobile advertising,Apple,Computing_platform
+2010,Public sector consulting,IBM,Computing_platform
+2010,Data integrity software,IBM,Computing_platform
+2010,Social search,Google,Internet_Search
+2010,Network Automation software,IBM,Computing_platform
+2016,Risk management and regulatory compliance,IBM,Computing_platform
+2010,Email search,Google,Internet_Search
+2010,Photo editing,Google,Internet_Search
+2010,Photo management,Facebook,SNS
+2010,Microsoft Office files sharing site,Google,Internet_Search
+2010,Sports Social media,Yahoo,Internet_Search
+2010,Online video platform start-up,Google,Internet_Search
+2010,Server CPUs,Google,Internet_Search
+2010,Voice control software,Apple,Computing_platform
+2010,Semiconductors,Apple,Computing_platform
+2010,Cloud Integration,IBM,Computing_platform
+2010,Application localization,Apple,Computing_platform
+2010,Intellectual property/patents,Facebook,SNS
+2010,Video and audio compression,Google,Internet_Search
+2010,Content farm,Yahoo,Internet_Search
+2010,Music streaming,Google,Internet_Search
+2010,Travel,Google,Internet_Search
+2010,Business software integration,IBM,Computing_platform
+2010,Private conversations/Forums,Facebook,SNS
+2010,Advertising,Google,Internet_Search
+2010,Web Analytics,IBM,Computing_platform
+2010,Security and IT automation software,IBM,Computing_platform
+2010,Travel recommendations,Facebook,SNS
+2018,Government Issued ID Verification Platform,Facebook,SNS
+2010,Semantic search,Google,Internet_Search
+2010,Data Compression,IBM,Computing_platform
+2010,Java/Eclipse/AJAX developer tools,Google,Internet_Search
+2010,Social gaming,Google,Internet_Search
+2010,Social Gold payment,Google,Internet_Search
+2010,Data capture and Content Management,IBM,Computing_platform
+2010,Marketing planning software,IBM,Computing_platform
+2010,Visual search engine,Google,Internet_Search
+2010,Internet applications,Facebook,SNS
+2010,Check-ins/status updates,Facebook,SNS
+2010,Social networking service,Google,Internet_Search
+2010,Integrated risk management solutions,IBM,Computing_platform
+2010,Data warehousing and analytics,IBM,Computing_platform
+2010,Networking,IBM,Computing_platform
+2016,Android Emulator,Google,Internet_Search
+2010,Schedule management,Google,Internet_Search
+2010,.Net monitoring technology,Microsoft,Computing_platform
+2010,Legal risk management,IBM,Computing_platform
+2010,3-D sensing technology,Microsoft,Computing_platform
+2010,File hosting and sharing,Facebook,SNS
+2010,American Farm Bureau Federation,Facebook,SNS
+2010,DRM,Google,Internet_Search
+2016,Publisher analytics,Facebook,SNS
+2011,E-book,Google,Internet_Search
+2011,Voice recognition,Google,Internet_Search
+2011,Mobile advertising,Facebook,SNS
+2011,Group messaging,Facebook,SNS
+2011,Online video,Google,Internet_Search
+2016,"Computer Vision, Machine Learning",Facebook,SNS
+2011,Facility and Real Estate Management,IBM,Computing_platform
+2011,Computer vision,Facebook,SNS
+2011,Travel technology,Google,Internet_Search
+2011,Recognize TV content,Yahoo,Internet_Search
+2011,Mobile software,Google,Internet_Search
+2011,Information graphics,Facebook,SNS
+2011,Product search,Google,Internet_Search
+2011,Software,Microsoft,Computing_platform
+2011,Online advertising,Google,Internet_Search
+2011,Email prioritization,Facebook,SNS
+2011,Media center,Google,Internet_Search
+2011,Loyalty program,Google,Internet_Search
+2011,Social groups,Google,Internet_Search
+2011,Facial recognition system,Google,Internet_Search
+2011,One deal a day service,Google,Internet_Search
+2011,Digital publishing,Facebook,SNS
+2011,Mobile device manufacturer,Google,Internet_Search
+2016,Social Apps Developer,Twitter,SNS
+2011,Digital coupons,Google,Internet_Search
+2011,Restaurant reviews,Google,Internet_Search
+2011,Security Intelligence,IBM,Computing_platform
+2011,Social casual Q&A service app,Facebook,SNS
+2011,Data driven advertising,Yahoo,Internet_Search
+2011,"HTML5 mobile apps, SproutCore",Facebook,SNS
+2016,Professional Networking Service,Microsoft,Computing_platform
+2011,Instantaneous search,Google,Internet_Search
+2011,Social circle organization,Google,Internet_Search
+2011,Video search,Microsoft,Computing_platform
+2011,Location Based Service,Facebook,SNS
+2011,Cloud-based Retail Analytics,IBM,Computing_platform
+2011,Music rights management,Google,Internet_Search
+2011,Local recommendations app,Google,Internet_Search
+2011,Supply Chain Analytics,IBM,Computing_platform
+2016,Smartwatches,Google,Internet_Search
+2012,Android-powered smartwatches,Google,Internet_Search
+2012,Cloud based software testing,IBM,Computing_platform
+2012,In-browser file transfer,Facebook,SNS
+2012,App search engine,Apple,Computing_platform
+2012,Software company,Google,Internet_Search
+2018,Gaming backend service,Microsoft,Computing_platform
+2012,Online payments,Google,Internet_Search
+2012,Photo sharing,Facebook,SNS
+2012,Customer loyalty app,Facebook,SNS
+2012,Enterprise Search Software,IBM,Computing_platform
+2012,Customer Experience Analytics Software,IBM,Computing_platform
+2012,Social discovery platform,Facebook,SNS
+2012,Social gifting,Facebook,SNS
+2012,Social networking,Google,Internet_Search
+2012,Mobile office suite,Google,Internet_Search
+2012,Social networking,Microsoft,Computing_platform
+2012,Multi touch hardware,Microsoft,Computing_platform
+2012,Mobile bookmarking and sharing content,Facebook,SNS
+2012,PC and mobile security products,Apple,Computing_platform
+2012,Social media marketing,Google,Internet_Search
+2012,Solid State Storage,IBM,Computing_platform
+2012,"Threadsy is a social aggregator, Maker of social marketing tool Swaylo",Facebook,SNS
+2012,Human Capital Solutions,IBM,Computing_platform
+2012,Photography,Google,Internet_Search
+2017,Crash analytics,Google,Internet_Search
+2012,HTML5 Web app firm,Apple,Computing_platform
+2012,Two-factor authentication system,Microsoft,Computing_platform
+2012,Cloud-storage appliance vendor,Microsoft,Computing_platform
+2012,Marketing automation firm,Microsoft,Computing_platform
+2012,Social recommendation,Yahoo,Internet_Search
+2012,Digital coupons,Google,Internet_Search
+2017,Information security,IBM,Computing_platform
+2012,OnTheAir,Yahoo,Internet_Search
+2012,Big Data Analysis,IBM,Computing_platform
+2013,Search engine,Apple,Computing_platform
+2013,Home automation,Microsoft,Computing_platform
+2013,Social network,Yahoo,Internet_Search
+2013,Business Analytics,IBM,Computing_platform
+2013,Peer-to-peer (P2P) media distribution,Microsoft,Computing_platform
+2017,Data science,Google,Internet_Search
+2013,Product ecommerce,Google,Internet_Search
+2013,Social TV analytics,Twitter,SNS
+2013,Social recommendation,Yahoo,Internet_Search
+2013,Atlas advertiser suite,Facebook,SNS
+2013,Mobile software,Facebook,SNS
+2013,Cloud monitoring,Microsoft,Computing_platform
+2013,Design agency,Facebook,SNS
+2013,Cloud computing,Google,Internet_Search
+2017,Productivity suite,Google,Internet_Search
+2013,Social recommendation,Yahoo,Internet_Search
+2013,Indoor location,Apple,Computing_platform
+2013,Social Prediction,Google,Internet_Search
+2013,Software delivery automation,IBM,Computing_platform
+2013,Natural Language Processing,Google,Internet_Search
+2013,Cross-platform game framework,Facebook,SNS
+2013,Mobile app backends,Facebook,SNS
+2013,Productivity,Yahoo,Internet_Search
+2017,Automation and scripting app,Apple,Computing_platform
+2013,Flight rewards management,Yahoo,Internet_Search
+2013,Real-time surveys,Yahoo,Internet_Search
+2013,Mobile gaming,Yahoo,Internet_Search
+2013,Blogging,Yahoo,Internet_Search
+2013,Airborne wind turbines,Google,Internet_Search
+2013,Online gaming,Yahoo,Internet_Search
+2013,Cloud Computing Infrastructure,IBM,Computing_platform
+2017,Container Management,Microsoft,Computing_platform
+2013,Mobile Photography Apps,Yahoo,Internet_Search
+2013,Video Conferencing,Yahoo,Internet_Search
+2013,Local Discovery,Twitter,SNS
+2013,Automated Video Production,Yahoo,Internet_Search
+2013,Fantasy Sports,Yahoo,Internet_Search
+2013,CRM,Yahoo,Internet_Search
+2013,Maps,Apple,Computing_platform
+2017,Collaborative Productivity Platform,Microsoft,Computing_platform
+2013,ecommerce Analytics,Yahoo,Internet_Search
+2013,Semiconductors,Apple,Computing_platform
+2013,News Aggregator,Yahoo,Internet_Search
+2013,Speech translation app,Facebook,SNS
+2013,Media discovery app,Apple,Computing_platform
+2013,Maps,Apple,Computing_platform
+2013,Image Recognition,Yahoo,Internet_Search
+2018,Digital magazine subscription service,Apple,Computing_platform
+2013,Mobile software,Google,Internet_Search
+2013,Sports,Yahoo,Internet_Search
+2013,Gesture recognition technology,Google,Internet_Search
+2013,Personal assistant,Apple,Computing_platform
+2017,Virtual reality studio,Google,Internet_Search
+2013,In-app mobile messaging and push notification tools,IBM,Computing_platform
+2013,Advertising,Yahoo,Internet_Search
+2013,Image Recognition,Yahoo,Internet_Search
+2013,API management,Microsoft,Computing_platform
+2013,Mobile Device Management,IBM,Computing_platform
+2013,Database analytics,Apple,Computing_platform
+2017,Artificial intelligence,Apple,Computing_platform
+2013,Analytics,Apple,Computing_platform
+2013,"Robotic arms, computer vision",Google,Internet_Search
+2013,Video sharing,Yahoo,Internet_Search
+2013,Robotic arms,Google,Internet_Search
+2013,Robots,Google,Internet_Search
+2013,Robotic wheels,Google,Internet_Search
+2013,Live and on demand music playing,Yahoo,Internet_Search
+2013,Robotic cameras,Google,Internet_Search
+2013,Ads and Design,Google,Internet_Search
+2013,Cross Platform Video Streaming,Yahoo,Internet_Search
+2013,Sports conversation analysis,Facebook,SNS
+2013,Content Delivery Network,Yahoo,Internet_Search
+2013,Data Transfer Technology,IBM,Computing_platform
+2013,Software,Apple,Computing_platform
+2013,Maps,Apple,Computing_platform
+2014,On-Screen Keyboard,Apple,Computing_platform
+2014,Photography software,Apple,Computing_platform
+2014,Customer service software,Microsoft,Computing_platform
+2014,Intelligent homescreen for the Android OS,Yahoo,Internet_Search
+2014,Home automation,Google,Internet_Search
+2014,Web conversation platform,Facebook,SNS
+2014,Internet security,Google,Internet_Search
+2014,Mobile Marketing,Yahoo,Internet_Search
+2014,Conversation platform,Yahoo,Internet_Search
+2014,Time Management App,Yahoo,Internet_Search
+2014,Social Diary,Yahoo,Internet_Search
+2014,Technical Recruiting,Yahoo,Internet_Search
+2014,Mobile messaging,Facebook,SNS
+2014,Software testing,Apple,Computing_platform
+2014,Database-as-a-Service,IBM,Computing_platform
+2014,Social media information transformation,Yahoo,Internet_Search
+2014,Gadgets,Google,Internet_Search
+2014,Virtual reality technology,Facebook,SNS
+2014,Behavioral Marketing Automation,IBM,Computing_platform
+2014,High-altitude UAVs,Google,Internet_Search
+2014,microLED displays,Apple,Computing_platform
+2014,Online advertising attribution,Google,Internet_Search
+2014,Online energy usage monitoring,Google,Internet_Search
+2014,Cloud computing,Google,Internet_Search
+2014,Restaurant website creation,Google,Internet_Search
+2014,Mobile Messaging,Yahoo,Internet_Search
+2014,Augmented reality,Google,Internet_Search
+2014,Mobile device management,Google,Internet_Search
+2017,Artificial Intelligence,Facebook,SNS
+2014,Social search engine,Apple,Computing_platform
+2014,Satellite,Google,Internet_Search
+2014,Photo Management,Yahoo,Internet_Search
+2014,Wireless,Google,Internet_Search
+2014,Home monitoring,Google,Internet_Search
+2014,Automated application testing,Google,Internet_Search
+2017,Cloud HPC,Microsoft,Computing_platform
+2014,Book analytics,Apple,Computing_platform
+2014,Music streaming,Apple,Computing_platform
+2014,Music streaming,Google,Internet_Search
+2014,Disaster recovery solutions,Microsoft,Computing_platform
+2014,Deep Learning,Twitter,SNS
+2014,Mobile Analytics,Yahoo,Internet_Search
+2018,GIF image search,Google,Internet_Search
+2014,"Headphones, music streaming (Beats Music)",Apple,Computing_platform
+2014,Mobile video,Google,Internet_Search
+2014,IM client,Google,Internet_Search
+2014,Secure Server Technology,Facebook,SNS
+2014,Cloud Security,IBM,Computing_platform
+2014,Publisher Monetization Platform,Facebook,SNS
+2014,"Artificial intelligence, image recognition",Google,Internet_Search
+2014,Mechanical design,Google,Internet_Search
+2014,Cloud-based visual effects software,Google,Internet_Search
+2014,Sound Studio,Facebook,SNS
+2014,Advertising,Yahoo,Internet_Search
+2014,Liftware,Google,Internet_Search
+2014,Social polling,Google,Internet_Search
+2014,Messaging App,Yahoo,Internet_Search
+2014,Data synchronization,Google,Internet_Search
+2014,Home automation,Google,Internet_Search
+2014,Online Video Advertising,Yahoo,Internet_Search
+2014,Mobile software prototyping,Google,Internet_Search
+2014,Photo Viewing,Yahoo,Internet_Search
+2014,Mobile Email Apps,Microsoft,Computing_platform
+2017,Single sign-on and identity management,Google,Internet_Search
+2014,Video editing,Google,Internet_Search
+2015,Speech recognition,Facebook,SNS
+2015,Video Compression,Facebook,SNS
+2015,Statistical computing and predictive analytics,Microsoft,Computing_platform
+2015,Sunrise Calendar applications,Microsoft,Computing_platform
+2015,Child-friendly apps,Google,Internet_Search
+2015,Multimedia sharing and storage,Google,Internet_Search
+2015,Mobile payments,Google,Internet_Search
+2015,App advertising and discovery,Google,Internet_Search
+2015,"Natural language processing, big data",IBM,Computing_platform
+2015,Ecommerce,Facebook,SNS
+2015,Database,Apple,Computing_platform
+2015,PowerPoint collaboration,Microsoft,Computing_platform
+2015,"Web Search Engine, Cognitive Computing",IBM,Computing_platform
+2015,GPS,Apple,Computing_platform
+2015,Health management software,IBM,Computing_platform
+2015,Healthcare analytics,IBM,Computing_platform
+2015,Virtual reality software,Google,Internet_Search
+2017,Messaging assistant,Apple,Computing_platform
+2015,Mobile software,Google,Internet_Search
+2015,Mobile app optimizer,Google,Internet_Search
+2015,Private Cloud as a Service,IBM,Computing_platform
+2015,Application management,Microsoft,Computing_platform
+2015,Machine Learning,Twitter,SNS
+2017,Virtual reality,Microsoft,Computing_platform
+2015,Mobile application streaming,Google,Internet_Search
+2015,Enterprise Field Service,Microsoft,Computing_platform
+2015,Mobile software prototyping,Google,Internet_Search
+2015,Database as a Service,IBM,Computing_platform
+2015,Clothing E-commerce website,Yahoo,Internet_Search
+2015,Sales-gamification,Microsoft,Computing_platform
+2015,Healthcare imaging software,IBM,Computing_platform
+2015,"Machine learning, Image recognition",Apple,Computing_platform
+2015,Mapping visualization and data collection,Apple,Computing_platform
+2015,Organisational analytics,Microsoft,Computing_platform
+2015,Mobile API capabilities,IBM,Computing_platform
+2015,Mobile lock screen software,Microsoft,Computing_platform
+2015,E-book subscriptions,Google,Internet_Search
+2015,Consulting services for Workday applications,IBM,Computing_platform
+2015,Rich Communication Services,Google,Internet_Search
+2017,AMP converter,Google,Internet_Search
+2015,Rural communications,Facebook,SNS
+2015,Push Notification Services,Twitter,SNS
+2015,"Weather data sources and analytics, related online and mobile products",IBM,Computing_platform
+2015,Cloud brokerage software and cloud management,IBM,Computing_platform
+2015,"MileIQ, a mileage tracking application",Microsoft,Computing_platform
+2015,Object-based storage software,IBM,Computing_platform
+2017,Podcasts,Google,Internet_Search
+2018,Conversational AI,Microsoft,Computing_platform
+2018,Version Control Hosting,Microsoft,Computing_platform
