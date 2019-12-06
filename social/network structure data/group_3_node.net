@@ -1,0 +1,355 @@
+*vertices 173
+1 "Apple"
+2 "Facebook"
+3 "Google"
+4 "IBM"
+5 "Microsoft"
+6 "Twitter"
+7 "Yahoo"
+8 "3D modeling software"
+9 "AboutFace"
+10 "Ad Exchange"
+11 "Advertising"
+12 "Advertising and marketing"
+13 "Advertising network"
+14 "Advertising yield management software"
+15 "Aerial photography"
+16 "Analysis software"
+17 "Analytics and Optimisation"
+18 "Application Management"
+19 "Application Recovery Software"
+20 "Application Server"
+21 "Application Services"
+22 "Applications"
+23 "Asset Management"
+24 "Assets"
+25 "Bioinformatics solutions for life science research"
+26 "Browser extension"
+27 "Business Intelligence"
+28 "Business Intelligence software"
+29 "Business Process Management"
+30 "Business Rules Management Systems"
+31 "Business Server Software"
+32 "Business intelligence software"
+33 "Calendaring software"
+34 "Certain assets"
+35 "Certificate management software"
+36 "Change Data Capture"
+37 "Collaborative real-time editor"
+38 "Collaborative software"
+39 "College sports"
+40 "Communications security"
+41 "Community software"
+42 "Computer security"
+43 "Computer vision"
+44 "Content management software"
+45 "Data De-duplication"
+46 "Data Discovery Software"
+47 "Data Feed Connectors"
+48 "Data Mobility"
+49 "Data backup services"
+50 "Data software"
+51 "Database Software"
+52 "Database monitoring and protection"
+53 "Developer of ZCam, a time-of-flight camera"
+54 "Digital asset management"
+55 "Digital marketing"
+56 "Digital video recorder"
+57 "Electronic Forms"
+58 "Email protection"
+59 "Enterprise Data Consulting"
+60 "Enterprise Information Integration"
+61 "Enterprise Single Sign-On"
+62 "Enterprise messaging software"
+63 "Enterprise search[clarification needed]"
+64 "Enterprise software"
+65 "Enterprise software development"
+66 "Enterprise storage"
+67 "Gesture recognition company"
+68 "Graphics library"
+69 "IT Financial Management"
+70 "IT Services"
+71 "Identity and Access Management Software for Healthcare"
+72 "Identity management"
+73 "Image hosting service"
+74 "In-game advertising"
+75 "Information management software"
+76 "Information security"
+77 "Information technology"
+78 "Installation Software"
+79 "Interactive online gaming"
+80 "Internet Protocol Television (IPTV)"
+81 "Internet search engine"
+82 "Internet software"
+83 "Location information engine"
+84 "Mainframe, System Z technologies"
+85 "Management consulting"
+86 "Management software"
+87 "Mapping"
+88 "Mapping software"
+89 "Maps"
+90 "Master Data Management"
+91 "Messaging"
+92 "Metadata management"
+93 "Microblogging"
+94 "Mobile"
+95 "Mobile Internet software"
+96 "Mobile advertising"
+97 "Mobile applications"
+98 "Mobile browser"
+99 "Mobile music entertainment"
+100 "Mobile operating system"
+101 "Mobile phone software"
+102 "Mobile software"
+103 "Music streaming"
+104 "Natural language software"
+105 "Network management"
+106 "Networking"
+107 "News site"
+108 "Offline applications/Web desktop"
+109 "Online advertising"
+110 "Online game"
+111 "Online messaging and collaboration"
+112 "Online music store"
+113 "Online search software"
+114 "Online spreadsheets"
+115 "Online video"
+116 "Online video editing"
+117 "Parallel processing"
+118 "Photo sharing"
+119 "Portal-based tools"
+120 "Presentation program"
+121 "Rootkit security software"
+122 "Search"
+123 "Search and e-commerce services"
+124 "Search engine"
+125 "Search engines"
+126 "Security"
+127 "Security Software Testing"
+128 "Semantic Search"
+129 "Semiconductor Manufacturing software"
+130 Semiconductors
+131 "Service Oriented Architecture (SOA)"
+132 "Service Oriented Architecture software"
+133 "Social bookmarking"
+134 "Social media"
+135 "Social network service"
+136 "Social networking"
+137 "Social networking aggregator"
+138 "Social networking service"
+139 "Social search"
+140 "Social software development"
+141 "Software"
+142 "Software Development"
+143 "Software tools"
+144 "Source code analysis"
+145 "Statistical analysis software"
+146 "Statistical software"
+147 "Storage Consulting and Technology Services"
+148 "Supply chain optimization"
+149 "Telecommunications Management"
+150 "Video compression"
+151 "Video game advertising"
+152 "Video games"
+153 "Video on demand"
+154 "Video sharing"
+155 "Videoconferencing"
+156 "Virtual community"
+157 "Virtualization Software"
+158 "VoIP"
+159 "Voice over IP"
+160 "Voice over Internet Protocol"
+161 "Web analytics"
+162 "Web application"
+163 "Web conferencing and communications"
+164 "Web feed"
+165 "Web log analysis"
+166 "Web mapping"
+167 "Web search engine"
+168 "Weblog software"
+169 "Webmail applications"
+170 "Widget engine"
+171 "Wireless data sharing"
+172 "Word processor"
+173 "application virtualization software"
+*edges
+1 1 1
+2 2 1
+3 3 1
+4 4 1
+5 5 1
+6 6 1
+7 7 1
+8 3 1
+9 2 1
+10 5 1
+11 3 1
+12 5 1
+13 7 2
+14 5 1
+15 3 1
+16 5 1
+17 4 1
+18 4 1
+19 4 1
+20 4 1
+21 4 1
+22 5 3
+23 4 3
+24 5 1
+25 5 1
+26 7 2
+27 4 3
+28 5 1
+29 4 1
+30 4 1
+31 4 1
+32 5 1
+33 7 1
+34 5 1
+35 5 1
+36 4 1
+37 3 1
+38 7 1
+39 7 1
+40 3 1
+41 5 1
+42 3 1
+43 3 1
+44 4 1
+45 4 1
+46 4 1
+47 4 1
+48 4 1
+49 4 1
+50 5 1
+51 4 1
+52 4 1
+53 5 1
+54 5 1
+55 5 1
+56 7 1
+57 4 1
+58 5 1
+59 4 1
+60 4 2
+61 4 1
+62 5 1
+63 5 1
+64 5 1
+65 4 1
+66 4 1
+67 1 1
+68 3 1
+69 4 1
+70 4 3
+71 5 1
+72 4 2
+73 7 1
+74 3 1
+75 4 1
+76 4 2
+77 5 2
+78 4 1
+79 5 1
+80 4 1
+81 5 1
+82 5 1
+83 6 1
+84 4 1
+85 4 1
+86 5 1
+87 3 1
+87 5 1
+88 5 1
+89 1 1
+90 5 1
+91 5 1
+92 4 1
+93 3 1
+94 5 1
+95 5 1
+96 3 1
+97 5 1
+98 3 1
+99 5 1
+100 3 1
+101 5 1
+102 3 2
+102 7 1
+103 1 1
+104 5 1
+105 4 2
+106 5 1
+107 7 1
+108 2 1
+109 3 2
+109 7 2
+110 7 1
+111 4 1
+112 7 1
+113 5 1
+114 3 1
+115 3 1
+116 7 1
+117 3 1
+118 3 1
+119 4 1
+120 3 2
+121 5 1
+122 5 1
+123 5 1
+124 5 1
+125 3 1
+126 3 1
+127 4 1
+128 5 1
+129 4 1
+130 1 1
+131 4 1
+132 4 1
+133 7 1
+134 7 2
+135 7 1
+136 2 1
+137 2 1
+138 3 3
+139 6 1
+140 6 1
+141 1 3
+141 5 14
+142 4 1
+143 5 1
+144 4 1
+145 4 1
+146 3 1
+147 4 1
+148 4 1
+149 4 1
+150 3 1
+151 5 1
+152 5 1
+153 7 1
+154 3 1
+155 3 1
+156 7 1
+157 4 1
+158 5 1
+159 3 2
+160 7 1
+161 3 1
+162 3 1
+163 4 1
+164 3 1
+165 5 1
+166 7 1
+167 3 1
+167 7 1
+168 3 2
+168 7 1
+169 7 1
+170 3 1
+170 7 1
+171 7 1
+172 3 1
+173 5 1

@@ -1,0 +1,247 @@
+,business,category
+1,Internet_Search,1
+2,Computing_platform,2
+3,SNS,3
+4,Mobile advertising,2
+5,Public sector consulting,2
+6,Data integrity software,2
+7,Social search,1
+8,Network Automation software,2
+9,Email search,1
+10,Photo editing,1
+11,Photo management,3
+12,Microsoft Office files sharing site,1
+13,Sports Social media,1
+14,Online video platform start-up,1
+15,Server CPUs,1
+16,Voice control software,2
+17,Semiconductors,2
+18,Cloud Integration,2
+19,Application localization,2
+20,Intellectual property/patents,3
+21,Video and audio compression,1
+22,Content farm,1
+23,Music streaming,1
+24,Travel,1
+25,Business software integration,2
+26,Private conversations/Forums,3
+27,Advertising,1
+28,Web Analytics,2
+29,Security and IT automation software,2
+30,Travel recommendations,3
+31,Semantic search,1
+32,Data Compression,2
+33,Java/Eclipse/AJAX developer tools,1
+34,Social gaming,1
+35,Social Gold payment,1
+36,Data capture and Content Management,2
+37,Marketing planning software,2
+38,Visual search engine,1
+39,Internet applications,3
+40,Check-ins/status updates,3
+41,Social networking service,1
+42,Integrated risk management solutions,2
+43,Data warehousing and analytics,2
+44,Networking,2
+45,Schedule management,1
+46,.Net monitoring technology,2
+47,Legal risk management,2
+48,3-D sensing technology,2
+49,File hosting and sharing,3
+50,American Farm Bureau Federation,3
+51,DRM,1
+52,E-book,1
+53,Voice recognition,1
+54,Mobile advertising,3
+55,Group messaging,3
+56,Online video,1
+57,Facility and Real Estate Management,2
+58,Computer vision,3
+59,Travel technology,1
+60,Recognize TV content,1
+61,Mobile software,1
+62,Information graphics,3
+63,Product search,1
+64,Software,2
+65,Online advertising,1
+66,Email prioritization,3
+67,Media center,1
+68,Loyalty program,1
+69,Social groups,1
+70,Facial recognition system,1
+71,One deal a day service,1
+72,Digital publishing,3
+73,Mobile device manufacturer,1
+74,Digital coupons,1
+75,Restaurant reviews,1
+76,Security Intelligence,2
+77,Social casual Q&A service app,3
+78,Data driven advertising,1
+79,"HTML5 mobile apps, SproutCore",3
+80,Instantaneous search,1
+81,Social circle organization,1
+82,Video search,2
+83,Location Based Service,3
+84,Cloud-based Retail Analytics,2
+85,Music rights management,1
+86,Local recommendations app,1
+87,Supply Chain Analytics,2
+88,Android-powered smartwatches,1
+89,Cloud based software testing,2
+90,In-browser file transfer,3
+91,App search engine,2
+92,Software company,1
+93,Online payments,1
+94,Photo sharing,3
+95,Customer loyalty app,3
+96,Enterprise Search Software,2
+97,Customer Experience Analytics Software,2
+98,Social discovery platform,3
+99,Social gifting,3
+100,Social networking,1
+101,Mobile office suite,1
+102,Social networking,2
+103,Multi touch hardware,2
+104,Mobile bookmarking and sharing content,3
+105,PC and mobile security products,2
+106,Social media marketing,1
+107,Solid State Storage,2
+108,"Threadsy is a social aggregator, Maker of social marketing tool Swaylo",3
+109,Human Capital Solutions,2
+110,Photography,1
+111,HTML5 Web app firm,2
+112,Two-factor authentication system,2
+113,Cloud-storage appliance vendor,2
+114,Marketing automation firm,2
+115,Social recommendation,1
+116,Digital coupons,1
+117,OnTheAir,1
+118,Big Data Analysis,2
+119,Search engine,2
+120,Home automation,2
+121,Social network,1
+122,Business Analytics,2
+123,Peer-to-peer (P2P) media distribution,2
+124,Product ecommerce,1
+125,Social TV analytics,3
+126,Social recommendation,1
+127,Atlas advertiser suite,3
+128,Mobile software,3
+129,Cloud monitoring,2
+130,Design agency,3
+131,Cloud computing,1
+132,Social recommendation,1
+133,Indoor location,2
+134,Social Prediction,1
+135,Software delivery automation,2
+136,Natural Language Processing,1
+137,Cross-platform game framework,3
+138,Mobile app backends,3
+139,Productivity,1
+140,Flight rewards management,1
+141,Real-time surveys,1
+142,Mobile gaming,1
+143,Blogging,1
+144,Airborne wind turbines,1
+145,Online gaming,1
+146,Cloud Computing Infrastructure,2
+147,Mobile Photography Apps,1
+148,Video Conferencing,1
+149,Local Discovery,3
+150,Automated Video Production,1
+151,Fantasy Sports,1
+152,CRM,1
+153,Maps,2
+154,ecommerce Analytics,1
+155,Semiconductors,2
+156,News Aggregator,1
+157,Speech translation app,3
+158,Media discovery app,2
+159,Maps,2
+160,Image Recognition,1
+161,Mobile software,1
+162,Sports,1
+163,Gesture recognition technology,1
+164,Personal assistant,2
+165,In-app mobile messaging and push notification tools,2
+166,Advertising,1
+167,Image Recognition,1
+168,API management,2
+169,Mobile Device Management,2
+170,Database analytics,2
+171,Analytics,2
+172,"Robotic arms, computer vision",1
+173,Video sharing,1
+174,Robotic arms,1
+175,Robots,1
+176,Robotic wheels,1
+177,Live and on demand music playing,1
+178,Robotic cameras,1
+179,Ads and Design,1
+180,Cross Platform Video Streaming,1
+181,Sports conversation analysis,3
+182,Content Delivery Network,1
+183,Data Transfer Technology,2
+184,Software,2
+185,Maps,2
+186,On-Screen Keyboard,2
+187,Photography software,2
+188,Customer service software,2
+189,Intelligent homescreen for the Android OS,1
+190,Home automation,1
+191,Web conversation platform,3
+192,Internet security,1
+193,Mobile Marketing,1
+194,Conversation platform,1
+195,Time Management App,1
+196,Social Diary,1
+197,Technical Recruiting,1
+198,Mobile messaging,3
+199,Software testing,2
+200,Database-as-a-Service,2
+201,Social media information transformation,1
+202,Gadgets,1
+203,Virtual reality technology,3
+204,Behavioral Marketing Automation,2
+205,High-altitude UAVs,1
+206,microLED displays,2
+207,Online advertising attribution,1
+208,Online energy usage monitoring,1
+209,Cloud computing,1
+210,Restaurant website creation,1
+211,Mobile Messaging,1
+212,Augmented reality,1
+213,Mobile device management,1
+214,Social search engine,2
+215,Satellite,1
+216,Photo Management,1
+217,Wireless,1
+218,Home monitoring,1
+219,Automated application testing,1
+220,Book analytics,2
+221,Music streaming,2
+222,Music streaming,1
+223,Disaster recovery solutions,2
+224,Deep Learning,3
+225,Mobile Analytics,1
+226,"Headphones, music streaming (Beats Music)",2
+227,Mobile video,1
+228,IM client,1
+229,Secure Server Technology,3
+230,Cloud Security,2
+231,Publisher Monetization Platform,3
+232,"Artificial intelligence, image recognition",1
+233,Mechanical design,1
+234,Cloud-based visual effects software,1
+235,Sound Studio,3
+236,Advertising,1
+237,Liftware,1
+238,Social polling,1
+239,Messaging App,1
+240,Data synchronization,1
+241,Home automation,1
+242,Online Video Advertising,1
+243,Mobile software prototyping,1
+244,Photo Viewing,1
+245,Mobile Email Apps,2
+246,Video editing,1

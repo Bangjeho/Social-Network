@@ -1,0 +1,178 @@
+*vertices 86
+1 "Apple"
+2 "Facebook"
+3 "Google"
+4 "IBM"
+5 "Microsoft"
+6 "Twitter"
+7 "Yahoo"
+8 "Anti-spyware"
+9 "Antivirus technology"
+10 "Application management software"
+11 "Audio player"
+12 "Automated Self-Checkout Systems"
+13 "BPO Services"
+14 "Blogging"
+15 "Browser Helper Object"
+16 "Business Consulting and Technology Services"
+17 "Business Intelligence"
+18 "Business Process Management"
+19 "Business management software"
+20 "Business process services"
+21 "Business strategy consulting"
+22 "Cable television"
+23 "Computer consulting"
+24 "Computer software"
+25 "Content management software"
+26 "Customer relationship management"
+27 "Database Software"
+28 "Digital TV services"
+29 "Digital audio technology"
+30 "Digital effects software"
+31 "E-commerce"
+32 "E-commerce payment systems"
+33 "Electronic mailing list"
+34 "Enterprise Information Integration"
+35 "Enterprise storage"
+36 "FireWire chips and software"
+37 "Game server browser"
+38 "Graphics software"
+39 "HTML editor"
+40 "IP assets"
+41 "IT Services"
+42 "Identity management"
+43 "Image organizer"
+44 "Information technology"
+45 "Infrastructure management"
+46 "Internet service provider"
+47 "Internet service provider (ISP)"
+48 "Internet software"
+49 "Job search engine"
+50 "Map analysis"
+51 "Mobile media"
+52 "Music production software"
+53 "Online Spanish Portal"
+54 "Online advertising"
+55 "Online auction tools"
+56 "Online enterprise location"
+57 "Online info systems services"
+58 "Online music search engine"
+59 "Online music store"
+60 "Personal search tool"
+61 "Price comparison service"
+62 "Procurement Services"
+63 "Product information management"
+64 "Product lifecycle management"
+65 "Productivity software"
+66 "Project Portfolio Management (PPM) software"
+67 "Records Management"
+68 "Reporting systems"
+69 "Search engine marketing"
+70 "Security software"
+71 "Software"
+72 "Software Development"
+73 "Software and video games"
+74 "Software programming"
+75 "Special effects software"
+76 "Special-effects titling software for film and video"
+77 "Traffic analysis"
+78 "Travel agency"
+79 "Usenet"
+80 "Web conferencing"
+81 "Web portal"
+82 "Web search engine"
+83 "Web-based email"
+84 "Weblog software"
+85 "Wholesale drawing software"
+86 "internet and network optimization for wireless carriers"
+*edges
+1 1 1
+2 2 1
+3 3 1
+4 4 1
+5 5 1
+6 6 1
+7 7 1
+8 5 1
+9 5 1
+10 4 1
+11 7 1
+12 4 1
+13 4 1
+14 3 1
+15 7 1
+16 4 1
+17 4 1
+18 4 1
+19 5 1
+20 4 1
+21 4 1
+22 5 1
+23 5 1
+24 5 1
+25 4 1
+26 3 1
+27 4 1
+28 5 1
+29 5 1
+30 1 1
+31 7 1
+32 7 1
+33 7 1
+34 4 2
+35 4 1
+36 1 1
+37 7 1
+38 1 1
+39 3 1
+40 5 1
+41 4 2
+42 4 1
+43 3 1
+44 5 1
+45 4 1
+46 5 2
+46 7 2
+47 1 1
+48 1 1
+48 5 2
+49 7 1
+50 3 2
+51 7 1
+52 1 1
+53 5 1
+54 3 2
+55 7 1
+56 5 1
+57 1 1
+58 5 1
+59 7 1
+60 5 1
+61 7 1
+62 4 1
+63 4 1
+64 4 1
+65 1 1
+66 4 1
+67 4 1
+68 5 1
+69 7 1
+70 5 1
+71 1 2
+71 4 5
+71 5 6
+72 4 1
+73 5 1
+74 5 1
+75 1 1
+76 1 1
+77 3 1
+78 5 1
+79 3 1
+80 5 1
+81 7 1
+82 3 2
+83 7 2
+84 3 1
+85 5 1
+86 1 1
