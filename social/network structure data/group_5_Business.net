@@ -1,0 +1,8 @@
+*vertices 3
+1 "Machine Learning"
+2 "Computer Vision"
+3 "Artificial Intelligence"
+*edges
+1 2
+1 3
+2 3

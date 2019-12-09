@@ -1,17 +1,17 @@
-1 "Apple"
-2 "Facebook"
-3 "Google"
-4 "IBM"
-5 "Microsoft"
-6 "Twitter"
-7 "Yahoo"
-8 "Anti-spyware"
+1 Apple
+2 Facebook
+3 Google
+4 IBM
+5 Microsoft
+6 Twitter
+7 Yahoo
+8 Anti-spyware
 9 "Antivirus technology"
 10 "Application management software"
 11 "Audio player"
 12 "Automated Self-Checkout Systems"
 13 "BPO Services"
-14 "Blogging"
+14 Blogging
 15 "Browser Helper Object"
 16 "Business Consulting and Technology Services"
 17 "Business Intelligence"
@@ -28,7 +28,7 @@
 28 "Digital TV services"
 29 "Digital audio technology"
 30 "Digital effects software"
-31 "E-commerce"
+31 E-commerce
 32 "E-commerce payment systems"
 33 "Electronic mailing list"
 34 "Enterprise Information Integration"
@@ -68,7 +68,7 @@
 68 "Reporting systems"
 69 "Search engine marketing"
 70 "Security software"
-71 "Software"
+71 Software
 72 "Software Development"
 73 "Software and video games"
 74 "Software programming"
@@ -76,7 +76,7 @@
 76 "Special-effects titling software for film and video"
 77 "Traffic analysis"
 78 "Travel agency"
-79 "Usenet"
+79 Usenet
 80 "Web conferencing"
 81 "Web portal"
 82 "Web search engine"

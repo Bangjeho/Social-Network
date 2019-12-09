@@ -1,14 +1,14 @@
-1 "Apple"
-2 "Facebook"
-3 "Google"
-4 "IBM"
-5 "Microsoft"
-6 "Twitter"
-7 "Yahoo"
+1 Apple
+2 Facebook
+3 Google
+4 IBM
+5 Microsoft
+6 Twitter
+7 Yahoo
 8 "3D modeling software"
-9 "AboutFace"
+9 AboutFace
 10 "Ad Exchange"
-11 "Advertising"
+11 Advertising
 12 "Advertising and marketing"
 13 "Advertising network"
 14 "Advertising yield management software"
@@ -19,9 +19,9 @@
 19 "Application Recovery Software"
 20 "Application Server"
 21 "Application Services"
-22 "Applications"
+22 Applications
 23 "Asset Management"
-24 "Assets"
+24 Assets
 25 "Bioinformatics solutions for life science research"
 26 "Browser extension"
 27 "Business Intelligence"
@@ -84,14 +84,14 @@
 84 "Mainframe, System Z technologies"
 85 "Management consulting"
 86 "Management software"
-87 "Mapping"
+87 Mapping
 88 "Mapping software"
-89 "Maps"
+89 Maps
 90 "Master Data Management"
-91 "Messaging"
+91 Messaging
 92 "Metadata management"
-93 "Microblogging"
-94 "Mobile"
+93 Microblogging
+94 Mobile
 95 "Mobile Internet software"
 96 "Mobile advertising"
 97 "Mobile applications"
@@ -103,7 +103,7 @@
 103 "Music streaming"
 104 "Natural language software"
 105 "Network management"
-106 "Networking"
+106 Networking
 107 "News site"
 108 "Offline applications/Web desktop"
 109 "Online advertising"
@@ -119,11 +119,11 @@
 119 "Portal-based tools"
 120 "Presentation program"
 121 "Rootkit security software"
-122 "Search"
+122 Search
 123 "Search and e-commerce services"
 124 "Search engine"
 125 "Search engines"
-126 "Security"
+126 Security
 127 "Security Software Testing"
 128 "Semantic Search"
 129 "Semiconductor Manufacturing software"
@@ -138,7 +138,7 @@
 138 "Social networking service"
 139 "Social search"
 140 "Social software development"
-141 "Software"
+141 Software
 142 "Software Development"
 143 "Software tools"
 144 "Source code analysis"
@@ -152,10 +152,10 @@
 152 "Video games"
 153 "Video on demand"
 154 "Video sharing"
-155 "Videoconferencing"
+155 Videoconferencing
 156 "Virtual community"
 157 "Virtualization Software"
-158 "VoIP"
+158 VoIP
 159 "Voice over IP"
 160 "Voice over Internet Protocol"
 161 "Web analytics"

@@ -1,162 +1,162 @@
-1 Apple 1.0 1
-2 Facebook 1.0 1
-3 Google 1.0 1
-4 IBM 1.0 1
-5 Microsoft 1.0 1
-6 Twitter 1.0 1
-7 Yahoo 1.0 1
-8 "360-Degree Photography"  1
-9 "3D Gaming"  1
-10 "Advanced Video Upscaling, Compression And Enhancement"  1
-11 Advertising  2
-12 "Ai-Powered Scheduling Assistant Service"  1
-13 "Amp Converter"  1
-14 "Android Emulator"  1
-15 "Anonymous Social Media App"  1
-16 "Api Management And Predictive Analytics"  1
-17 "App Advertising And Discovery"  1
-18 "Application Discovery And Dashboard Visualization"  1
-19 "Application Management"  1
-20 "Artificial Intelligence"  4
-21 "Audio Plug-Ins And Sound Libraries"  1
-22 "Augmented Reality"  2
-23 "Augmented Reality Head-Mounted Display"  1
-24 "Automation And Scripting App"  1
-25 "Big Data Analytics"  1
-26 "Branded Content"  1
-27 Camera  1
-28 "Child-Friendly Apps"  1
-29 "Cinemagraphic Photo App"  1
-30 "Clothing E-Commerce Website"  1
-31 "Cloud Based Hands-On Training Platform"  1
-32 "Cloud Brokerage Software And Cloud Management"  1
-33 "Cloud Business Management"  1
-34 "Cloud Hpc"  1
-35 "Cloud Security"  1
-36 "Cloud Software"  2
-37 "Cloud-Based Video Management"  1
-38 "Cloud-Based Video Services"  1
-39 "Collaboration Platform"  1
-40 "Collaboration Software"  1
-41 "Collaborative Productivity Platform"  1
-42 "Computer Vision"  2
-43 "Computer Vision, Augmented Reality"  2
-44 "Computer Vision, Machine Learning"  1
-45 "Consulting Services For Workday Applications"  1
-46 "Container Management"  1
-47 "Conversational Ai"  1
-48 "Crash Analytics"  1
-49 "Cyber Security, Incident Response Platform"  1
-50 Cybersecurity  1
-51 "Data Protection"  1
-52 "Data Science"  1
-53 Database  1
-54 "Database As A Service"  1
-55 "Deployment Services"  1
-56 "Digital Magazine Subscription Service"  1
-57 "Digital Marketing And Creative Agency"  3
-58 "E-Book Subscriptions"  1
-59 Ecommerce  1
-60 "Education Software"  1
-61 "Education Technology"  1
-62 "Emotion Recognition"  1
-63 "Employee And Manager Feedback Tool"  1
-64 "Enterprise Communications"  1
-65 "Enterprise Field Service"  1
-66 "Eye Tracking Hardware And Software"  1
-67 "Eye Tracking, Virtual Reality"  1
-68 "Feedback Platform For Development Teams"  1
-69 "Game Technology Vendor"  1
-70 "Gaming Backend Service"  1
-71 "Gif Image Search"  1
-72 "Government Issued Id Verification Platform"  1
-73 Gps  1
-74 "Health Management Software"  1
-75 "Healthcare Analytics"  1
-76 "Healthcare Imaging Software"  1
-77 "Hybrid Cloud Recovery"  1
-78 "Image Recognition"  1
-79 "Indoor Mapping And Navigation"  1
-80 "Information Security"  1
-81 "Innovation Consultancy"  1
-82 "Interactive Tutorials"  1
-83 "Internet Of Things Platform"  1
-84 "Internet Service Provider"  1
-85 "Link Management"  1
-86 "Live-Video Streaming"  1
-87 "Location-Based Analytics"  1
-88 "Machine Learning"  3
-89 "Machine Learning, Image Recognition"  1
-90 "Mapping Visualization And Data Collection"  1
-91 "Messaging Assistant"  1
-92 "Mileiq, A Mileage Tracking Application"  1
-93 "Mobile Api Capabilities"  1
-94 "Mobile App Optimizer"  1
-95 "Mobile Application Development"  1
-96 "Mobile Application Streaming"  1
-97 "Mobile Business Intelligence & Data Visualization"  1
-98 "Mobile Communications"  1
-99 "Mobile Lock Screen Software"  1
-100 "Mobile Marketing And Analytics"  1
-101 "Mobile Payments"  1
-102 "Mobile Software"  1
-103 "Mobile Software Prototyping"  1
-104 "Mobile Tool Maker"  1
-105 "Modular Electronics"  1
-106 "Multimedia Sharing And Storage"  1
-107 "Music Analytics"  1
-108 "Music And Image Recognition"  1
-109 "Music Discovery"  1
-110 "Natural Language Processing"  1
-111 "Natural Language Processing, Big Data"  1
-112 "Object-Based Storage Software"  1
-113 "Oculus Vr"  1
-114 "Organisational Analytics"  1
-115 "Personal Health Info Collection Company"  1
-116 "Platform For Musicians"  1
-117 "Platform Security"  1
-118 Podcasts  1
-119 "Powerpoint Collaboration"  1
-120 "Private Cloud As A Service"  1
-121 "Productivity Suite"  1
-122 "Professional Networking Service"  1
-123 "Provider Of Cloud-Based Healthcare Data, Analytics And Insights"  1
-124 "Publisher Analytics"  1
-125 "Push Notification Services"  1
-126 "Real Time Transaction Fraud Detection"  1
-127 "Realtime Motion Capture"  1
-128 "Rich Communication Services"  1
-129 "Risk Management And Regulatory Compliance"  1
-130 "Rural Communications"  1
-131 Sales-Gamification  1
-132 "Salesforce Systems Integrator And Professional Services"  1
-133 "Single Sign-On And Identity Management"  1
-134 "Sleep Tracking Hardware"  1
-135 Smartwatches  1
-136 "Social Apps Developer"  1
-137 "Spatial Audio"  1
-138 "Specialist Provider Of Microsoft Dynamics Crm Based Solutions And Associated Services To The Public Sector"  1
-139 "Speech Recognition"  1
-140 "Speech Technology"  1
-141 "Statistical Computing And Predictive Analytics"  1
-142 "Streaming Video"  1
-143 "Styli And Pen Input Hardware And Software"  1
-144 "Sunrise Calendar Applications"  1
-145 "Surround Sound Technology"  1
-146 "Swiftkey, A Keyboard Productivity Application"  1
-147 "Talent And Intellectual Property Licenses"  1
-148 "Text Analytics Service"  1
-149 "Version Control Hosting"  1
-150 "Video Compression"  1
-151 "Video Editing"  1
-152 "Video Game Streaming"  1
-153 "Virtual Reality"  1
-154 "Virtual Reality Software"  1
-155 "Virtual Reality Studio"  1
-156 "Visual Effects (Face-Swapping)"  1
-157 "Voice Communication"  1
-158 "Weather Data Sources And Analytics, Related Online And Mobile Products"  1
-159 "Web Portal And Application Lifecycle Management Solutions"  1
-160 "Web Search Engine, Cognitive Computing"  1
-161 "Wireless Charging"  1
-162 "Wunderlist To-Do List Applications"  1
+1 Apple
+2 Facebook
+3 Google
+4 IBM
+5 Microsoft
+6 Twitter
+7 Yahoo
+8 "360-Degree Photography"
+9 "3D Gaming"
+10 "Advanced Video Upscaling, Compression And Enhancement"
+11 Advertising
+12 "Ai-Powered Scheduling Assistant Service"
+13 "Amp Converter"
+14 "Android Emulator"
+15 "Anonymous Social Media App"
+16 "Api Management And Predictive Analytics"
+17 "App Advertising And Discovery"
+18 "Application Discovery And Dashboard Visualization"
+19 "Application Management"
+20 "Artificial Intelligence"
+21 "Audio Plug-Ins And Sound Libraries"
+22 "Augmented Reality"
+23 "Augmented Reality Head-Mounted Display"
+24 "Automation And Scripting App"
+25 "Big Data Analytics"
+26 "Branded Content"
+27 Camera
+28 "Child-Friendly Apps"
+29 "Cinemagraphic Photo App"
+30 "Clothing E-Commerce Website"
+31 "Cloud Based Hands-On Training Platform"
+32 "Cloud Brokerage Software And Cloud Management"
+33 "Cloud Business Management"
+34 "Cloud Hpc"
+35 "Cloud Security"
+36 "Cloud Software"
+37 "Cloud-Based Video Management"
+38 "Cloud-Based Video Services"
+39 "Collaboration Platform"
+40 "Collaboration Software"
+41 "Collaborative Productivity Platform"
+42 "Computer Vision"
+43 "Computer Vision, Augmented Reality"
+44 "Computer Vision, Machine Learning"
+45 "Consulting Services For Workday Applications"
+46 "Container Management"
+47 "Conversational Ai"
+48 "Crash Analytics"
+49 "Cyber Security, Incident Response Platform"
+50 Cybersecurity
+51 "Data Protection"
+52 "Data Science"
+53 Database
+54 "Database As A Service"
+55 "Deployment Services"
+56 "Digital Magazine Subscription Service"
+57 "Digital Marketing And Creative Agency"
+58 "E-Book Subscriptions"
+59 Ecommerce
+60 "Education Software"
+61 "Education Technology"
+62 "Emotion Recognition"
+63 "Employee And Manager Feedback Tool"
+64 "Enterprise Communications"
+65 "Enterprise Field Service"
+66 "Eye Tracking Hardware And Software"
+67 "Eye Tracking, Virtual Reality"
+68 "Feedback Platform For Development Teams"
+69 "Game Technology Vendor"
+70 "Gaming Backend Service"
+71 "Gif Image Search"
+72 "Government Issued Id Verification Platform"
+73 Gps
+74 "Health Management Software"
+75 "Healthcare Analytics"
+76 "Healthcare Imaging Software"
+77 "Hybrid Cloud Recovery"
+78 "Image Recognition"
+79 "Indoor Mapping And Navigation"
+80 "Information Security"
+81 "Innovation Consultancy"
+82 "Interactive Tutorials"
+83 "Internet Of Things Platform"
+84 "Internet Service Provider"
+85 "Link Management"
+86 "Live-Video Streaming"
+87 "Location-Based Analytics"
+88 "Machine Learning"
+89 "Machine Learning, Image Recognition"
+90 "Mapping Visualization And Data Collection"
+91 "Messaging Assistant"
+92 "Mileiq, A Mileage Tracking Application"
+93 "Mobile Api Capabilities"
+94 "Mobile App Optimizer"
+95 "Mobile Application Development"
+96 "Mobile Application Streaming"
+97 "Mobile Business Intelligence & Data Visualization"
+98 "Mobile Communications"
+99 "Mobile Lock Screen Software"
+100 "Mobile Marketing And Analytics"
+101 "Mobile Payments"
+102 "Mobile Software"
+103 "Mobile Software Prototyping"
+104 "Mobile Tool Maker"
+105 "Modular Electronics"
+106 "Multimedia Sharing And Storage"
+107 "Music Analytics"
+108 "Music And Image Recognition"
+109 "Music Discovery"
+110 "Natural Language Processing"
+111 "Natural Language Processing, Big Data"
+112 "Object-Based Storage Software"
+113 "Oculus Vr"
+114 "Organisational Analytics"
+115 "Personal Health Info Collection Company"
+116 "Platform For Musicians"
+117 "Platform Security"
+118 Podcasts
+119 "Powerpoint Collaboration"
+120 "Private Cloud As A Service"
+121 "Productivity Suite"
+122 "Professional Networking Service"
+123 "Provider Of Cloud-Based Healthcare Data, Analytics And Insights"
+124 "Publisher Analytics"
+125 "Push Notification Services"
+126 "Real Time Transaction Fraud Detection"
+127 "Realtime Motion Capture"
+128 "Rich Communication Services"
+129 "Risk Management And Regulatory Compliance"
+130 "Rural Communications"
+131 Sales-Gamification
+132 "Salesforce Systems Integrator And Professional Services"
+133 "Single Sign-On And Identity Management"
+134 "Sleep Tracking Hardware"
+135 Smartwatches
+136 "Social Apps Developer"
+137 "Spatial Audio"
+138 "Specialist Provider Of Microsoft Dynamics Crm Based Solutions And Associated Services To The Public Sector"
+139 "Speech Recognition"
+140 "Speech Technology"
+141 "Statistical Computing And Predictive Analytics"
+142 "Streaming Video"
+143 "Styli And Pen Input Hardware And Software"
+144 "Sunrise Calendar Applications"
+145 "Surround Sound Technology"
+146 "Swiftkey, A Keyboard Productivity Application"
+147 "Talent And Intellectual Property Licenses"
+148 "Text Analytics Service"
+149 "Version Control Hosting"
+150 "Video Compression"
+151 "Video Editing"
+152 "Video Game Streaming"
+153 "Virtual Reality"
+154 "Virtual Reality Software"
+155 "Virtual Reality Studio"
+156 "Visual Effects (Face-Swapping)"
+157 "Voice Communication"
+158 "Weather Data Sources And Analytics, Related Online And Mobile Products"
+159 "Web Portal And Application Lifecycle Management Solutions"
+160 "Web Search Engine, Cognitive Computing"
+161 "Wireless Charging"
+162 "Wunderlist To-Do List Applications"

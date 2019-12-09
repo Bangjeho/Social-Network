@@ -1,0 +1,13 @@
+*vertices 7
+1 "Apple"
+2 "MicroSoft"
+3 "IBM"
+4 "Google"
+5 "Facebook"
+6 "Twitter"
+7 "Yahoo"
+*Edges
+1 2 2
+1 3 1
+2 3 1
+2 7 1

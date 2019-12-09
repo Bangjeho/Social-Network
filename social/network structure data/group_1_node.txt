@@ -1,11 +1,10 @@
-*vertices 49
-1 "Apple"
-2 "Facebook"
-3 "Google"
-4 "IBM"
-5 "Microsoft"
-6 "Twitter"
-7 "Yahoo"
+1 Apple
+2 Facebook
+3 Google
+4 IBM
+5 Microsoft
+6 Twitter
+7 Yahoo
 8 "3D graphics hardware"
 9 "Application software"
 10 "Calendaring software"
@@ -33,11 +32,11 @@
 32 "Macintosh clones"
 33 "Online game"
 34 "PC database software"
-35 "Programming"
+35 Programming
 36 "Relationship management software"
 37 "Satellite communication systems"
 38 "Shopping online"
-39 "Software"
+39 Software
 40 "Systems design"
 41 "Unix-like hardware and software platform"
 42 "Video game controllers"
@@ -48,56 +47,3 @@
 47 "Web-based email"
 48 "Wholesale 3-D visualization software"
 49 "Wholesale computer software"
-*edges
-1 1 1
-2 2 1
-3 3 1
-4 4 1
-5 5 1
-6 6 1
-7 7 1
-8 5 1
-9 5 1
-10 7 1
-11 5 1
-12 5 1
-13 1 1
-14 5 1
-15 1 3
-15 5 2
-16 7 1
-17 7 1
-18 5 1
-19 5 1
-20 7 1
-21 5 1
-22 5 1
-23 5 1
-24 7 1
-25 5 1
-26 7 1
-27 5 2
-27 7 1
-28 5 5
-29 5 1
-30 5 1
-31 5 1
-32 1 1
-33 7 1
-34 5 1
-35 5 2
-36 5 1
-37 1 1
-38 5 1
-39 1 2
-39 5 12
-40 5 1
-41 1 1
-42 5 1
-43 7 1
-44 7 1
-45 5 1
-46 7 1
-47 7 1
-48 5 1
-49 5 1
