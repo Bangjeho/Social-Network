@@ -1,8 +1,0 @@
-*vertices 3
-1 "Software"
-2 "Internet Software"
-3 "Internet service provider"
-*Edges
-1 2
-1 3
-2 3
